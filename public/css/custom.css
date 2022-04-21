@@ -1,0 +1,55 @@
+.note-editor .card-dark:not(.card-outline) .card-header, .card-dark:not(.card-outline) .card-header a
+ {
+    color: black;
+ }
+
+
+
+/********* ADMIN CSS*********/
+.main-header{
+background: rgba(36,190,161,1) !important; 
+}
+.sidebar{
+background: rgba(36,190,161,1);   
+}
+.brand-link{
+   background:rgba(36,190,161,1);
+}
+.nav-sidebar > .nav-item{
+    margin-bottom:5px;
+}
+.nav-sidebar .nav-item > .nav-link{
+    display:flex;
+    justify-content:start;
+}
+.nav-pills .nav-link.active{
+    background-color:#fff !important;
+}
+.content .nav-pills .nav-link.active{
+    background:rgba(36,190,161,1) !important;
+}
+.nav-pills .nav-link.active .nav-icon,
+.nav-pills .nav-link.active p{
+    color:#df621a;
+}
+.nav-sidebar > .nav-item .nav-icon{
+    font-size:16px;
+    margin:0 .2rem;
+}
+.btn-dark,
+.bg-custom{
+    background:rgba(36,190,161,1);
+}
+.bg-custom p,
+.bg-custom h3{
+    color:#fff;
+}
+
+.bg-custom .fa{
+    color:rgba(255,255,255,.8);
+}
+.card-dark:not(.card-outline) .card-header {
+    background: rgba(36,190,161,1);
+    border-bottom: 0;
+    
+}
